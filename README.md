@@ -36,7 +36,7 @@
 ### 📫 Contact
 
 - 📧 Email: mithunm7n@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/mithun-k-0a8612372
+- 🔗 LinkedIn: www.linkedin.com/in/mithunk1
 
 
 ---
