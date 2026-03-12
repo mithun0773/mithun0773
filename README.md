@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,python,vscode,Prompt Engineering" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,python,vscode,<img src="https://raw.githubusercontent.com" width="48" height="48" alt="Prompt Engineering" />" />
 </p>
 
 ---
