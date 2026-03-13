@@ -54,11 +54,6 @@ Cryptocurrency analytics dashboard using **React + Charts + API integration**
 ### 📊 Economic Welfare Dashboard
 Data visualization platform for **inflation, population, and economic indicators**
 
-### 🌾 Agriculture Economic Overview
-Agriculture statistics dashboard with **graphs and analytical insights**
-
-### 🛒 MERN E-Commerce Platform
-Full-stack shopping application with **JWT Authentication, Node.js, Express, MongoDB**
 
 ---
 
